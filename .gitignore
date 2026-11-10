@@ -1,0 +1,4 @@
+# Segredos: NUNCA versionar
+config.h
+**/config.h
+wokwi/config.h
